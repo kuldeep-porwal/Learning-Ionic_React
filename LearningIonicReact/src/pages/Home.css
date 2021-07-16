@@ -1,0 +1,16 @@
+.word {
+  padding: 5px 10px;
+  margin: 10px;
+  color: rgb(85, 83, 83);
+  background-color: rgb(228, 218, 218);
+  border-radius: 5px;
+}
+
+.correct{
+    color: white;
+  background-color: rgb(24, 179, 24);
+}
+.incorrect{
+    color: white;
+  background-color: rgb(248, 17, 17);
+}
